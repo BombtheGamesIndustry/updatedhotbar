@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made by Bomb the Games Industry! 3/12/2026
+        Pack by Bomb the Games Industry! This is only available on MCPEDL and Github, if you found this elsewhere or under someone else's name, it has been stolen.",
+        "name": "BTGI Updated Hotbar",
+        "uuid": "d882e43e-c811-42f8-add8-2e903dd8283a",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 26, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Made by Bomb the Games Industry! 3/12/2026
+            Pack by Bomb the Games Industry! This is only available on MCPEDL and Github, if you found this elsewhere or under someone else's name, it has been stolen.",
+            "type": "resources",
+            "uuid": "c77b4fae-b715-4cfe-8238-d7042af00e32",
+            "version": [0, 0, 1]
+        }
+    ]
+}
